@@ -1,0 +1,30 @@
+.DS_Store
+.env
+.env.local
+.venv
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Editor
+.idea/
+.vscode/
+
+# Node/Next.js (for the planned frontend)
+node_modules/
+.next/
+.turbo/
+out/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
