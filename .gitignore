@@ -18,6 +18,7 @@ dist/
 # Editor
 .idea/
 .vscode/
+backend/static/
 
 # Node/Next.js (for the planned frontend)
 node_modules/
